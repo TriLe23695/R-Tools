@@ -31,3 +31,22 @@ summary(df$Unit.Cost)
 #BẢNG KẾT QUẢ
 #  Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
 #1.29    3.99    4.99   20.31   17.99  275.00 
+
+# Min: Cho biết đơn giá thấp nhất
+
+# 1st Qu: Tứ phân vị 25%: CHO BIẾT CÓ 25% SỐ LƯỢNG MẶT HÀNG ĐƯỢC ĐẶT HÀNG CÓ ĐƠN GIÁ NHỎ HƠN $3.99
+
+# Median: Tứ phân vị 50%: CHO BIẾT CÓ 50% SỐ LƯỢNG MẶT HÀNG ĐƯỢC ĐẶT HÀNG CÓ ĐƠN GIÁ NHỎ HƠN $4.99
+
+# Mean: Giá trị trung bình
+
+# 3rd Qu: Tứ phân vị 75%: CHO BIẾT CÓ 75% SỐ LƯỢNG MẶT HÀNG ĐƯỢC ĐẶT HÀNG CÓ ĐƠN GIÁ NHỎ HƠN $17.99
+
+# Max: Cho biết đơn giá cao nhất
+
+#---> So sánh Q3 và mean thì ta thấy có khả năng dữ liệu bị nhiễu bởi các giá trị bất thường trong đơn giá
+# BỞI VÌ Q3 nhỏ hơn Mean vì vậy số lượng 25% còn lại phải rất lớn
+# CÓ KHẢ NĂNG DỮ LIỆU BỊ NHIỄU BỞI CÁC GIÁ TRỊ BẤT THƯỜNG TRONG ĐƠN GIÁ 
+
+
+#TỰ PHÂN TÍCH THỐNG KÊ CHO BIẾN Units
