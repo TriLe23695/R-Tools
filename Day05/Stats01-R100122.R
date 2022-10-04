@@ -55,7 +55,7 @@
 # kết luận sai (tức là loại bỏ H1)
 
 # xác suất (khả năng) xảy ra sai lầm loại 1 người ta ký kiệu là alpha
-# xác suất (khả năng) xảy ra sai lầm loại 1 người ta ký kiệu là beta
+# xác suất (khả năng) xảy ra sai lầm loại 2 người ta ký kiệu là beta
 
 # CONFIDENCE INTERVAL (khoảng tin cậy)
 # đây là khoảng giá trị mà chưa dc biết trong tổng thể nhưng lại dc tính
