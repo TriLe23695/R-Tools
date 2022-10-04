@@ -50,3 +50,4 @@ summary(df$Unit.Cost)
 
 
 #TỰ PHÂN TÍCH THỐNG KÊ CHO BIẾN Units
+summary(df$Units)
