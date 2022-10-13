@@ -1,0 +1,2 @@
+Bài toán hồi quy : Kết quả là số
+Bài toán phân loại (Classification): kết quả là những giá trị rời rạc và hữu hạn
