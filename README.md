@@ -33,4 +33,9 @@ Day06:
        T Test trên 2 biến số: Kiểm định giả thuyết về giá trị trung bình (đối với mẫu nhỏ) H0: trung bình mẫu 1 = trung bình mẫu 2
        Proportion Test: Từ mẫu nhỏ suy ra mẫu lớn
   
-Day07:
+Day07: Kiểm định
+
+       Anova one way sử dụng cho biến định lượng - H0 = trung bình của các sản phẩm là bằng nhau
+       Anova two way
+       Fisher-test: kiểm định 2 biến định tính, mẫu nhỏ < 30 H0: Hai biến này không có quan hệ
+       Chi Square Test: > 30 mẫu: H0: Hai biến không có mối quan hệ
