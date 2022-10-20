@@ -1,4 +1,6 @@
 # R-Tools
+PHÂN PHỐI CHUẨN: CÁC DỮ LIỆU GẦN NHƯ NẰM TRÊN 1 ĐƯỜNG THẲNG
+
 Day01: 
        
        1.1 Khai báo biến đơn giản các phép toán trên biến
@@ -29,7 +31,7 @@ Day06:
 
        Z Test trên 1 biến số: Kiểm định giả thuyết về giá trị trung bình (mẫu phải lớn hơn 30 và là phân phối chuẩn H0: trung bình mẫu = giá trị cần kiểm định
        Z Test trên 2 biến số: Kiểm định giả thuyết về giá trị trung bình (mẫu phải lớn hơn 30 và là phân phối chuẩn H0: trung bình mẫu 1 = trung bình mẫu 2
-       T Test trên 1 biến số: Kiểm định giả thuyết về giá trị trung bình (đối với mẫu nhỏ) H0: trung bình mẫu = giá trị cần kiểm định
+       T Test trên 1 biến số: Kiểm định giả thuyết về giá trị trung bình (đối với mẫu nhỏ) H0: trung bình mẫu = giá trị cần kiểm định (PHÂN PHỐI CHUẨN)
        T Test trên 2 biến số: Kiểm định giả thuyết về giá trị trung bình (đối với mẫu nhỏ) H0: trung bình mẫu 1 = trung bình mẫu 2
        Proportion Test: Từ mẫu nhỏ suy ra mẫu lớn
   
@@ -39,3 +41,22 @@ Day07: Kiểm định
        Anova two way
        Fisher-test: kiểm định 2 biến định tính, mẫu nhỏ < 30 H0: Hai biến này không có quan hệ
        Chi Square Test: > 30 mẫu: H0: Hai biến không có mối quan hệ
+       
+Day08: 
+       
+       Kruskal Wallis Test.R: Giống như Anova nhưng dữ liệu không phân phối chuẩn H0: Các biến số không có mối quan hệ
+       Mann-Whitney-Wilcoxon Test: Kiểm tra xem các biến số có độc lập hay không H0: Các biến số không có mối quan hệ (tức là độc lập)
+       Simple Linear Regression
+       Machine Learning: Logistic Regression: Binary
+       
+Day09:
+
+       Multiple Linear Regression
+       Các chỉ tiêu đánh giá mô hình Regression
+       
+Day10:
+
+       logistic-regresstion_admit
+       Các chỉ tiêu đánh giá mô hình Logistic (Binary)
+       
+Day11: 
