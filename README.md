@@ -19,3 +19,14 @@ Day04: Thao tác nâng cao trên R
 
        Tạo ra số ngẫu nhiên bất kỳ
        Trung bình / Độ lệch chuẩn / Sác xuất
+       Giải hệ phương trình
+       Kết nối CSDL trong R
+       PHÂN TÍCH HỒI QUY (Phần 1) -Dự báo
+       
+Day05: Giả thuyết H0
+
+Day06: 
+
+       Z Test trên 1 biến số: Kiểm định giả thuyết về giá trị trung bình (mẫu phải lớn hơn 30 và là phân phối chuẩn H0: trung bình mẫu = giá trị cần kiểm định
+       Z Test trên 2 biến số: Kiểm định giả thuyết về giá trị trung bình (mẫu phải lớn hơn 30 và là phân phối chuẩn H0: trung bình mẫu 1 = trung bình mẫu 2
+       
