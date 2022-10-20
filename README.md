@@ -29,4 +29,8 @@ Day06:
 
        Z Test trên 1 biến số: Kiểm định giả thuyết về giá trị trung bình (mẫu phải lớn hơn 30 và là phân phối chuẩn H0: trung bình mẫu = giá trị cần kiểm định
        Z Test trên 2 biến số: Kiểm định giả thuyết về giá trị trung bình (mẫu phải lớn hơn 30 và là phân phối chuẩn H0: trung bình mẫu 1 = trung bình mẫu 2
-       
+       T Test trên 1 biến số: Kiểm định giả thuyết về giá trị trung bình (đối với mẫu nhỏ) H0: trung bình mẫu = giá trị cần kiểm định
+       T Test trên 2 biến số: Kiểm định giả thuyết về giá trị trung bình (đối với mẫu nhỏ) H0: trung bình mẫu 1 = trung bình mẫu 2
+       Proportion Test: Từ mẫu nhỏ suy ra mẫu lớn
+  
+Day07:
