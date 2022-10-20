@@ -60,3 +60,10 @@ Day10:
        Các chỉ tiêu đánh giá mô hình Logistic (Binary)
        
 Day11: 
+       
+       Clusering_K_Means: Phân loại dữ liệu theo số nhóm cho trước
+       Naive_Bayes
+
+Day12: 
+
+       Association Rule: dự báo quy luật chọn lựa
